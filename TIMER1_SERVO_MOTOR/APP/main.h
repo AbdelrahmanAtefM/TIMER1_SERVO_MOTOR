@@ -13,12 +13,8 @@
 #include "STD_TYPS.h"          ///**********_ Standard Types file  _*************///
 #include <util/delay.h>        ///**********_     delay library    _*************///
 #include "DIO_Int.h"           ///**********_     DIO              _*************///
-#include "LED_Int.h"           ///**********_     LED              _*************///
-#include "SSD_int.h"           ///**********_     7SEG             _*************///
-#include "PushButton_int.h"    ///**********_     PushButton       _*************///
 #include "LCD_Int.h"           ///**********_     LCD              _*************///
 #include "KeyPad_Int.h"        ///**********_     KeyPad           _*************///
-#include "BUZ_Int.h"           ///**********_     BUZZER           _*************///
 #include "EXTI_Int.h"          ///**********_     EXT_INT0         _*************///
 #include <avr/interrupt.h>
 #include "GIE_Int.h"           ///**********_  General interrupt   _*************///
